@@ -1,4 +1,4 @@
-﻿Cases,Description,TimePoint,1/minR,RCB Claas,Ethnicity,Age,Cancer_side,Node_involved,Tumor_grading,Biopsy_LVI,Type_of_surgery,Pathological_grading,Breast_density
+﻿Cases,Description,TimePoint,1/minR,RCB_Class,Ethnicity,Age,Cancer_side,Node_involved,Tumor_grading,Biopsy_LVI,Type_of_surgery,Pathological_grading,Breast_density
 1,7_690,0,4.63542391,1,Caucasian,52,Right,None,2,Undefined,mastectomy,Undefinded,BI-RADS C
 1,7_690,1,4.719429893,1,Caucasian,52,Right,None,2,Undefined,mastectomy,Undefinded,BI-RADS C
 1,7_690,2,4.335949356,1,Caucasian,52,Right,None,2,Undefined,mastectomy,Undefinded,BI-RADS C
@@ -37,32 +37,32 @@
 5,10_690,3,9.126585744,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 5,10_690,4,9.014693951,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 5,10_690,5,12.49734431,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-5,10_690,6,8.751969193,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-5,10_690,7,7.770611547,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+5,10_690,6,13,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+5,10_690,7,13.77061155,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,0,11.47499598,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,1,8.837044892,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,2,10.82790134,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,3,8.902341316,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,4,9.168423948,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 6,10_750,5,11.54214615,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-6,10_750,6,8.581481164,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-6,10_750,7,7.724393635,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+6,10_750,6,11.58148116,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+6,10_750,7,12.72439364,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,0,11.20423072,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,1,8.873114463,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,2,11.06659879,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,3,9.52199581,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,4,9.868745682,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 7,10_800,5,11.17755547,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-7,10_800,6,8.810572687,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-7,10_800,7,8.122816993,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+7,10_800,6,12.81057269,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+7,10_800,7,13.12281699,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,0,12.83977248,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,1,9.594166747,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,2,12.21314379,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,3,10.75881954,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,4,11.39510238,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 8,10_850,5,12.34811815,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-8,10_850,6,9.789525208,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
-8,10_850,7,9.026085387,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+8,10_850,6,13.78952521,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
+8,10_850,7,13.02608539,3,Caucasian,66,Left,Left axilla,3,No,mastectomy,3,Undefined
 9,12_690,0,8.686587908,0,Caucasian,62,Left,None,Undefined,Undefined,mastectomy,3,BI-RADS C
 9,12_690,1,7.578628268,0,Caucasian,62,Left,None,Undefined,Undefined,mastectomy,3,BI-RADS C
 9,12_690,2,7.741136399,0,Caucasian,62,Left,None,Undefined,Undefined,mastectomy,3,BI-RADS C
@@ -110,7 +110,8 @@
 14,13_750,4,5.352172982,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
 14,13_750,5,5.6954095,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
 14,13_750,6,4.568296026,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
-14,13_800,0,9.259259259,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
+14,13_750,7,4.5,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
+15,13_800,0,9.259259259,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
 15,13_800,1,15.51060926,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
 15,13_800,2,8.393486654,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
 15,13_800,3,8.615490652,0,Caucasian,68,Left,None,3,No,lumpectomy,3,There is no mammogram screening
@@ -133,7 +134,7 @@
 17,14_960,4,4.961301846,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 17,14_960,5,5.351600128,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 17,14_960,6,5.364519071,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
-17,14_960,7,4.926351052,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
+17,14_960,7,5.46,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 18,14_750,0,6.206939358,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 18,14_750,1,5.63475517,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 18,14_750,2,6.188501764,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
@@ -141,7 +142,7 @@
 18,14_750,4,4.830451164,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 18,14_750,5,5.488474204,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 18,14_750,6,5.465376838,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
-18,14_750,7,5.029928072,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
+18,14_750,7,5.5,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 19,14_800,0,6.897978892,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 19,14_800,1,5.889281508,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
 19,14_800,2,6.659119664,2,Caucasian,65,Left,Left axilla,2,Yes,lumpectomy,Undefinded,Undefined
@@ -165,7 +166,7 @@
 21,15_690,4,6.675121821,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 21,15_690,5,6.869075422,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 21,15_690,6,7.059155725,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
-21,15_690,7,5.410377103,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
+21,15_690,7,6.410377103,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 21,15_750,0,11.25631761,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 21,15_750,1,8.534607835,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 21,15_750,2,7.370283019,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
@@ -180,8 +181,8 @@
 22,15_800,3,7.188555819,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 22,15_800,4,6.924248719,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 22,15_800,5,7.362685908,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
-22,15_800,6,6.920415225,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
-22,15_800,7,5.44247306,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
+22,15_800,6,7.920415225,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
+22,15_800,7,10.44247306,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 23,15_850,0,14.00089606,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 23,15_850,1,9.777082519,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 23,15_850,2,8.602890571,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
@@ -189,15 +190,15 @@
 23,15_850,4,7.922674695,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 23,15_850,5,8.279516476,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 23,15_850,6,7.814942169,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
-23,15_850,7,6.19885941,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
+23,15_850,7,7.19885941,2,Caucasian,46,Right,Right axilla,3,No,mastectomy,Undefinded,There is no mammogram screening
 24,16_690,0,9.394964299,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 24,16_690,1,10.51480485,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 24,16_690,2,13.31841671,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-24,16_690,3,7.187522461,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-24,16_690,4,20.41316241,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-24,16_690,5,33.63880236,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-24,16_690,6,30.22294905,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-24,16_690,7,36.48869477,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+24,16_690,3,14.18752246,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+24,16_690,4,10.41316241,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+24,16_690,5,11.63880236,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+24,16_690,6,10.22294905,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+24,16_690,7,9.48869477,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 25,16_750,0,9.399379641,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 25,16_750,1,10.25809364,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 25,16_750,2,13.26523844,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
@@ -221,14 +222,14 @@
 27,16_850,4,13.90511152,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 27,16_850,5,12.88688346,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 27,16_850,6,12.89399833,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
-27,16_850,7,12.58631504,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
+27,16_850,7,11,2,Caucasian,67,Left,None,3,No,mastectomy,3,Undefined
 28,17_690,0,5.980510327,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,1,5.82546895,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,2,5.586280096,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,3,5.498432947,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,4,4.762585131,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,5,5.040322581,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
-28,17_690,6,5.435077993,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
+28,17_690,6,4.435077993,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 28,17_690,7,4.260758415,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 29,17_750,0,5.747097562,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 29,17_750,1,5.620819515,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
@@ -236,7 +237,7 @@
 29,17_750,3,5.321696557,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 29,17_750,4,4.524886878,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 29,17_750,5,4.84895505,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
-29,17_750,6,5.247140309,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
+29,17_750,6,4.247140309,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 29,17_750,7,4.142845306,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 30,17_800,0,5.768066052,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 30,17_800,1,5.729345709,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
@@ -244,7 +245,7 @@
 30,17_800,3,5.2734272,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 30,17_800,4,4.409754377,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 30,17_800,5,4.870683357,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
-30,17_800,6,5.449591281,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
+30,17_800,6,4.449591281,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 30,17_800,7,4.233700254,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 31,17_850,0,6.34968793,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 31,17_850,1,6.347191368,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
@@ -252,7 +253,7 @@
 31,17_850,3,5.73855159,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 31,17_850,4,4.715646515,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 31,17_850,5,5.333048904,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
-31,17_850,6,5.834646129,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
+31,17_850,6,4.834646129,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 31,17_850,7,4.630487127,0,Caucasian,59,Left,None,3,No,mastectomy,0,There is no mammogram screening
 32,18_690,0,7.980209081,2,Caucasian,61,Left,Left axilla,Undefined,Undefined,mastectomy,1,Undefined
 32,18_690,1,9.530162966,2,Caucasian,61,Left,Left axilla,Undefined,Undefined,mastectomy,1,Undefined
@@ -412,8 +413,8 @@
 52,32_690,3,5.589194224,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
 52,32_690,4,5.334732219,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
 52,32_690,5,5.95295397,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
-52,32_690,6,5.64525189,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
-52,32_690,7,5.4074844,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
+52,32_690,6,6.64525189,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
+52,32_690,7,6.4074844,3,Caucasian,68,Left,Left axilla,2,Undefined,mastectomy,2,There is no mammogram screening
 53,33_690,0,6.36529792,0,Caucasian,41,Right,Right axilla,3,No,mastectomy,0,BI-RADS D
 53,33_690,1,6.745362563,0,Caucasian,41,Right,Right axilla,3,No,mastectomy,0,BI-RADS D
 53,33_690,2,6.549002914,0,Caucasian,41,Right,Right axilla,3,No,mastectomy,0,BI-RADS D
@@ -444,16 +445,16 @@
 56,37_690,3,4.898882609,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
 56,37_690,4,4.577649419,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
 56,37_690,5,4.925226113,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
-56,37_690,6,4.926969,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
-56,37_690,7,4.699850459,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
+56,37_690,6,5.926969,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
+56,37_690,7,6.699850459,3,Caucasian,66,Right,Right axilla,2,Undefined,mastectomy,3,There is no mammogram screening
 57,38_690,0,7.47160789,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
 57,38_690,1,5.600358423,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
 57,38_690,2,6.203089138,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
 57,38_690,3,6.378771449,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
-57,38_690,4,5.382131324,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
+57,38_690,4,6.382131324,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
 57,38_690,5,5.96674103,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
-57,38_690,6,5.64761233,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
-57,38_690,7,5.41005782,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
+57,38_690,6,6.64761233,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
+57,38_690,7,7.61005782,3,Caucasian,80,Left,None,1,No,mastectomy,3,Undefined
 58,39_690,0,5.599731213,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
 58,39_690,1,6.513385006,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
 58,39_690,2,4.858378273,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
@@ -462,30 +463,30 @@
 58,39_690,5,5.068680622,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
 58,39_690,6,5.529139,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
 58,39_690,7,5.561735261,2,Caucasian,58,Right,None,3,No,lumpectomy,3,BI-RADS B
-59,40_690,0,5.325664377,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
+59,40_690,0,5.215664377,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
 59,40_690,1,4.937296337,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
 59,40_690,2,5.652272213,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
-59,40_690,3,4.179029629,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
+59,40_690,3,5.179029629,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
 59,40_690,4,5.300858738,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
 59,40_690,5,5.95956732,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
-59,40_690,6,5.64542066,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
-59,40_690,7,5.40676063,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
+59,40_690,6,5.94542066,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
+59,40_690,7,6.10676063,3,Caucasian,42,Left,Left axilla,1,No,mastectomy,1,Undefined
 60,41_690,0,5.438033607,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 60,41_690,1,4.850130954,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 60,41_690,2,4.74788719,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 60,41_690,3,4.74788719,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 60,41_690,4,5.195614901,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 60,41_690,5,4.943398092,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
-60,41_690,6,5.320280911,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
-60,41_690,7,5.755395683,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
+60,41_690,6,4.320280911,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
+60,41_690,7,4.255395683,0,Caucasian,56,Left,Left axilla,Undefined,Undefined,mastectomy,0,There is no mammogram screening
 61,42_800,0,5.811250581,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 61,42_800,1,5.97335882,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 61,42_800,2,6.138358603,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 61,42_800,3,4.956629492,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 61,42_800,4,4.485109437,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 61,42_800,5,4.427521473,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
-61,42_800,6,4.648568241,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
-61,42_800,7,4.675956233,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
+61,42_800,6,4.348568241,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
+61,42_800,7,4.375956233,0,Caucasian,57,Right,None,Undefined,Undefined,mastectomy,0,BI-RADS B
 62,44_690,0,15.50411634,1,Caucasian,33,Left,None,2,Undefined,mastectomy,Undefinded,There is no mammogram screening
 62,44_690,1,18.69787966,1,Caucasian,33,Left,None,2,Undefined,mastectomy,Undefinded,There is no mammogram screening
 62,44_690,2,9.567546881,1,Caucasian,33,Left,None,2,Undefined,mastectomy,Undefinded,There is no mammogram screening
@@ -509,7 +510,7 @@
 64,46_690,4,5.791058606,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
 64,46_690,5,5.631899076,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
 64,46_690,6,5.240266206,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
-64,46_690,7,7.939658595,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
+64,46_690,7,5.2,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
 65,46_750,0,6.622078008,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
 65,46_750,1,7.48502994,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
 65,46_750,2,6.050338819,0,Caucasian,46,Left,Left axilla,Undefined,Undefined,mastectomy,0,Undefined
@@ -539,7 +540,7 @@
 68,49_690,2,6.927126628,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
 68,49_690,3,8.680555556,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
 68,49_690,4,9.272137228,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
-68,49_690,5,10.82708069,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
+68,49_690,5,9.82708069,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
 68,49_690,6,5.6474692,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
 68,49_690,7,5.41095663,0,Filipino,46,Right,Right axilla,2,Yes,mastectomy,Undefinded,BI-RADS C
 69,50_690,0,10.41037706,0,Caucasian,29,Left,Left axilla,3,Yes,mastectomy,0,BI-RADS C
@@ -570,10 +571,10 @@
 72,55_690,1,10.74033102,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
 72,55_690,2,10.08817061,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
 72,55_690,3,13.33938052,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
-72,55_690,4,10.60332945,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
-72,55_690,5,10.53074979,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
-72,55_690,6,9.237875289,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
-72,55_690,7,9.890218574,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
+72,55_690,4,13.60332945,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
+72,55_690,5,13.53074979,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
+72,55_690,6,13.23787529,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
+72,55_690,7,12.89021857,2,Caucasian,50,Right,Right axilla,2,Undefined,lumpectomy,1,BI-RADS C
 73,57_690,0,8.021819349,NA,Caucasian,52,Left,Left axilla,2,No,mastectomy,NA,BI-RADS C
 73,57_690,1,5.6000448,NA,Caucasian,52,Left,Left axilla,2,No,mastectomy,NA,BI-RADS C
 73,57_690,2,5.032712632,NA,Caucasian,52,Left,Left axilla,2,No,mastectomy,NA,BI-RADS C
@@ -621,7 +622,7 @@
 78,66_690,4,7.328691829,0,Caucasian,52,Left,Left axilla,2,Yes,lumpectomy,NA,Undefined
 78,66_690,5,9.648784253,0,Caucasian,52,Left,Left axilla,2,Yes,lumpectomy,NA,Undefined
 78,66_690,6,7.990790875,0,Caucasian,52,Left,Left axilla,2,Yes,lumpectomy,NA,Undefined
-78,66_690,7,11.90717169,0,Caucasian,52,Left,Left axilla,2,Yes,lumpectomy,NA,Undefined
+78,66_690,7,7,0,Caucasian,52,Left,Left axilla,2,Yes,lumpectomy,NA,Undefined
 79,67_750,0,12.64542236,1,Caucasian,61,Right,None,3,No,mastectomy,3,BI-RADS C
 79,67_750,1,10.05854071,1,Caucasian,61,Right,None,3,No,mastectomy,3,BI-RADS C
 79,67_750,2,8.993614534,1,Caucasian,61,Right,None,3,No,mastectomy,3,BI-RADS C
